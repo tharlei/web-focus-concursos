@@ -33,9 +33,9 @@
 
 :heavy_check_mark: Calculo de frete com produto
 
-:heavy_check_mark Adaptado ao mobile
+:heavy_check_mark: Adaptado ao mobile
 
-:heavy_check_mark Layout reutilizável
+:heavy_check_mark: Layout reutilizável
 
 ## Deploy da Aplicação :dash:
 
