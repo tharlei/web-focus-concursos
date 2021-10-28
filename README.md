@@ -39,7 +39,7 @@
 
 ## Deploy da Aplicação :dash:
 
-> Link do deploy da aplicação: https://focusconcursos.netlify.app
+> Link do deploy da aplicação: https://focusconcursostestfrontend.netlify.app/
 
 ## Pré-requisitos
 
