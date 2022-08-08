@@ -1,5 +1,5 @@
 <p align="center">
- <img width="250" src="https://legado.focusconcursos.com.br/focus-online/skin/default/images/logo-color.png"/>
+ <img width="250" src="https://www.focusconcursos.com.br/static/logo-focus-horizontal.svg"/>
 </p>
 
 <p align="center">
